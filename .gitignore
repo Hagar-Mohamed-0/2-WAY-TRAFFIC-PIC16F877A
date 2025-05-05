@@ -1,0 +1,14 @@
+# MPLAB X ignores
+build/
+dist/
+nbproject/private/
+*.hex
+*.cof
+*.elf
+*.prefs
+*.log
+*.lst
+
+# System/IDE files
+.DS_Store (Mac)
+Thumbs.db (Windows)
